@@ -1,0 +1,6 @@
+myDog= 35
+myCat= 50
+percentage= myDog/myCat*100
+print (percentage)
+
+percentage= 70.0
