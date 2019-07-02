@@ -1,0 +1,14 @@
+Color = input ("Enter a color:")
+Plural_noun = input ("Enter a plural noun:")
+Celebrity = input ("Enter a celebrity:")
+print ("Roses are" + Color)
+print (Plural_noun + "are blue")
+print ("I Love" + Celebrity)
+
+Enter a color: Red
+Enter a plural noun: Violets
+Enter a celebrity: Meghan Trainor
+
+Roses are red
+Violets are blue
+I Love Meghan Trainor
