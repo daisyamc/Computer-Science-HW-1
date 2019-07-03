@@ -1,0 +1,9 @@
+Anaiah Coates (username: daisyamc)
+
+PocketMoney= 100
+bill = 40 
+tip = 0.10
+total = bill + tip
+print (PocketMoney-total)
+
+Money remaining: 59.90 dollars
