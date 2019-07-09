@@ -1,0 +1,13 @@
+def main():
+  Marks= int(input("Enter a number:"))
+  if Marks>50:
+    print("Student has passed the exam")
+  else:
+    print("Student has failed the exam")
+main()
+
+Enter a number: 80
+Student has passed the exam
+
+Enter a number: 20
+Student has failed the exam
