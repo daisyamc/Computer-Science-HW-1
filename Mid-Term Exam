@@ -1,0 +1,53 @@
+1) What is computer science?  
+Computer Science is the study of algorithms
+2)	Why is Python better than any other language? 
+Because it is a powerful language, is portable and easy to learn 
+3) What does ‘syntax’ mean? 
+Syntax refers to the structure of a program and the rules about that structure.
+4)	Which one of these is not a type of error ? 
+lethargic error 
+5)	What is an Algorithm? 
+Steps used to solve a problem 
+6)	What are two ways in which a program can be represented?  
+Pseudocode and Flowchart 
+7)	Which one these is NOT an example of an operator in Python?
+Parenthesis Operator 
+8)	Which of the following is an assignment operator? 
+=
+9)	What are the four steps involved in program development?
+1- Understand the problem
+2- Represent your problem
+3- Implement te algorithm
+4- Test and debug your program
+10) Find the syntax error in the following and write the corrected form beside it:
+        a) pnrit (“What’s up”)  answer: print
+    		b) print (‘Hello) answer: "Hello"
+    		c) a + b = c answer: (c= a + b) Variable should be on the left and the expression on the right
+    		d) 5cats = 5 answer: (cats5) No variable should start with a number
+11)	How are single line and multi-line comments made in Python? Write examples for each.
+Single-line comments are written on only one line
+ex. print("This is Anaiah Coates") #I am sixteen years old
+Multi-line comments are written in more than one line 
+ex. #I really
+#love the 
+#world
+print("This is Anaiah Coates)
+12) What is a variable? What is a string? Give examples for each.
+A variable is a specific location for storing information/data vaules
+ex. mypets= 13
+A string is a value that can contain a number of characters
+ex. print("Hello, everyone on Earth!")
+13) What will be the output of the following:
+   a) print (“10” + “10”)
+   b) print (20 + 20)
+a) 1010
+b) 40 
+14) How do you make the variable ‘gpa’ take a decimal type value? Write down your answer below.
+gpa = int(input("Enter GPA: ")) answer: Replace "int" with "float" (gpa=float(input("Enter GPA: "))
+15) Use the input keyword to take a numerical value from the user and find out whether it is negative, positive or zero. (Hint: Use If, elif & else)
+num8= 5
+if  num8 > 0:
+print("the number is positive")
+else:
+  print("the number is negative")
+
