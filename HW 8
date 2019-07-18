@@ -1,0 +1,11 @@
+1)	What does .append() method does? 
+Adds items to the end of a list, increasing its size 
+2)	What does .remove() method does? 
+Removes an item from the list
+3)	What does .extend() method does? 
+Adds each element to the list and extends the list  
+4)	What is the difference between .pop() and .clear() method? 
+.pop() will get rid of the entire list and .clear() gets rid of the last element of the list 
+5)	Friends2 = Friends.copy() 
+In the above statement- what does the variable ‘Friends2’ carry? 
+Friends2 carries a copy of information from Friends
