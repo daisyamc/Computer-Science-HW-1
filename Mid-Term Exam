@@ -50,4 +50,18 @@ if  num8 > 0:
 print("the number is positive")
 else:
   print("the number is negative")
-
+16) pet1= Dog
+pet2= Cat
+pet3= Bird
+pet4= Horse
+pet5= Fish
+if pet1:
+  print("Take it for a walk")
+elif pet2:
+  print("Clean the litter box")
+if pet3:
+  print("Clean the cage")
+if pet4:
+  print("Clean the stable")
+if pet5:
+  print("Clean the tank")
